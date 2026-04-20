@@ -11,3 +11,5 @@ st.write("Currently available:")
 st.write("1. Addition Experiment")
 st.write("2. Linear Regression Experiment")
 st.write("3. K-Means Clustering Experiment")
+st.write("4. Decision Tree Classification Experiment")
+
