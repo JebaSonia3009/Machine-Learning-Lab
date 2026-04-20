@@ -12,4 +12,5 @@ st.write("1. Addition Experiment")
 st.write("2. Linear Regression Experiment")
 st.write("3. K-Means Clustering Experiment")
 st.write("4. Decision Tree Classification Experiment")
-
+st.write("5. Logistic Regression Experiment")
+st.write("6. Confusion Matrix and Accuracy Evaluation")
